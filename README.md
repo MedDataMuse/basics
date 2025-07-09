@@ -1,2 +1,2 @@
 # basics
-le doc PDF est un exemple d'analyse statistique basique
+le doc PDF 'ex_upw1' est un exemple d'analyse statistique basique
